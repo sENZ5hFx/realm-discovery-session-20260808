@@ -1,11 +1,1 @@
-{
-  "creators": [
-    {
-      "affiliation": "Independent",
-      "name": "Bird, Haley Ann"
-    }
-  ],
-  "description": "Autonomous realm novel discovery session log and synthesis",
-  "publication_date": "2026-08-08",
-  "title": "realm-discovery-session-20260808"
-}
+{"creators":[{"affiliation":"Independent","name":"Bird, Haley Ann"}],"description":"A dated research-session log documenting realm discovery and synthesis of novel structures.","publication_date":"2026-08-08","title":"realm-discovery-session-20260808","version":"0.1.0","license":"SEE_LICENSE_FILE","keywords":["realm discovery","research session","session log","synthesis","novelty analysis"]}
