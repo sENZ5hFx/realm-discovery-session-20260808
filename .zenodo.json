@@ -1,1 +1,11 @@
-{"title":"realm-discovery-session-20260808","description":"Autonomous realm novel discovery session log and synthesis","upload_type":"software","creators":[{"name":"Bird, Haley Ann","affiliation":"Independent"}]}
+{
+  "creators": [
+    {
+      "affiliation": "Independent",
+      "name": "Bird, Haley Ann"
+    }
+  ],
+  "description": "Autonomous realm novel discovery session log and synthesis",
+  "publication_date": "2026-08-08",
+  "title": "realm-discovery-session-20260808"
+}
