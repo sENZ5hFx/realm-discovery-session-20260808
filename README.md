@@ -1,18 +1,9 @@
-# realm-discovery-session-20260808
+# Historical public research record — disclosure review
 
-Autonomous realm-discovery session log and synthesis — 2026-08-08.
+This repository contains an AI-assisted research-session record that was previously made public.
 
-## Scope
+The current default branch has been intentionally minimized while disclosure and protection strategy are reviewed. Detailed material from earlier public commits remains part of the historical public record; this change does **not** undo or retract prior disclosure.
 
-This repository preserves an AI-assisted exploratory session that generated candidate cross-domain patterns, questions, and structural hypotheses.
+No current statement here should be treated as proof of novelty, scientific validation, peer review, patentability, filing status, patent-pending status, or legal priority.
 
-## Evidence boundary
-
-- “Discovery” and “novel” language describes the internal search objective and candidate output, not independent validation.
-- Generated patterns or hypotheses may be incomplete, derivative, or contradicted by broader literature.
-- Material claims require source-level verification.
-- Git history establishes repository chronology only; it is not peer review, experimental confirmation, patent filing evidence, or legal-priority proof.
-
-## Intended use
-
-Use as an exploratory research log and provenance record.
+Historical commits are preserved for provenance and future review. No additional detailed research or enabling mechanics should be added to the public branch without an explicit disclosure decision.
